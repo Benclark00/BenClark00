@@ -4,7 +4,7 @@ I'm Ben, I am a full stack developer, data nerd, and a dedicated learner. I'm in
 ## Technologies I have experience with: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,postman,python,angular,js,html,css,nodejs,vscode,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,postman,python,angular,js,html,css,nodejs,npm,vscode,aws)](https://skillicons.dev)
 <!--
 **Benclark00/BenClark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
